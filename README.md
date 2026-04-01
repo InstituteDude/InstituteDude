@@ -1,6 +1,6 @@
 <h2> Hi,Im Muhamad Haekal Rizky <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="230">
-<p><em>College student at <a href="https://stmik-amikbandung.ac.id/">Stmik "AMIK" Bandung</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Graduate Machine learning Cohort at <a href="https://grow.google/intl/id_id/bangkit/">Bangkit Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Fresh Graduate from <a href="https://stmik-amikbandung.ac.id/">Stmik "AMIK" Bandung</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> and I was Graduate Machine learning Cohort at <a href="https://grow.google/intl/id_id/bangkit/">Bangkit Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: HaekalRiz](https://img.shields.io/twitter/follow/NotDataScientis?style=social)](https://twitter.com/NotDataScientis)
