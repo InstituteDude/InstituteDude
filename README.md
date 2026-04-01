@@ -13,11 +13,12 @@
 ```Python
 Dict = {
   pronouns: "he" | "him",
-  code: [Python, Java, C++, SQL, JavaScripts],
-  tools: [VsCode, Google colab],
-challenge: "Im doing study more in machine learning and python"
+  code: [Python, Java, C++, SQL, JavaScripts, React.JS, Next.Js, Elysia.Js, Bun, NPM, Golang, Tanstack Query, Redis, Zod],
+  IDE: [VsCode, Google colab, Antigravity],
+  AI Agents : [Claude, Codex, Gemini]
+challenge: "Im doing study more until i dont have my soul anymore"
 }
 ```
- <em><b>I love to learn about tech, science, and pysics</b></em>
+ <em><b>I love to learn about Tech, Science, Pysics, Philosophy and Many Many More</b></em>
 
 ---
